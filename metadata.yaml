@@ -1,0 +1,31 @@
+_repo: Where-the-World-is-Quiet_31207
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kuttner, Henry
+    alias: Liddell, C. H.
+    birthdate: 1915
+    deathdate: 1958
+    gutenberg_agent_id: '35061'
+    url: http://www.gutenberg.org/2009/agents/35061
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Kuttner
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peru -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Where the World is Quiet
+url: http://www.gutenberg.org/ebooks/31207

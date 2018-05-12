@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35061
     wikipedia: http://en.wikipedia.org/wiki/Henry_Kuttner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31207#Where-the-World-is-Quiet
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-02-07'
 gutenberg_type: Text
